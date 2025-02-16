@@ -23,4 +23,5 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/drawing_kid.png  # Add your splash screen image here
+    - assets/94262c50-9a84-438e-bf1f-2207494a750b.jpg  # Splash Screen Image
+    - assets/fd6bac13-d4d6-423d-bac3-7e981384c20b.jpg  # Drawing Board Image
